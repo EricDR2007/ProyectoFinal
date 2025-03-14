@@ -41,17 +41,14 @@ p {
   border-radius: 5px;
   width: fit-content;
 }
-.galleria {
+.galeria {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   gap: 10px;
   padding: 20px;
 }
-.galleria img {
+.galeria img {
   width: 100%;
   border-radius: 10px;
-  transition: transform 0.3s ease;
 }
-.galleria img:hover {
-  transform: scale(1.05);
-}
+
