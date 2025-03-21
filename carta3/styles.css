@@ -1,6 +1,5 @@
 body {
     display: flex;
-    flex-direction: column;
     align-items: center;
     justify-content: center;
     text-align: left;
@@ -36,14 +35,15 @@ body {
     border: none;
     cursor: pointer;
     margin-top: 10px;
+    border-radius: 16px;
 }
 
-.image-container {
+.imagen-container {
     width: 100%;
     margin-top: 20px;
 }
 
-.image-container img {
+.imagen-container img {
     width: 100%;
     border-radius: 8px;
 }
