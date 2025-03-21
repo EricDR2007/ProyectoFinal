@@ -28,7 +28,7 @@ body {
     color: #666;
 }
 
-.button {
+.boton {
     background-color: black;
     color: white;
     padding: 10px 20px;
@@ -36,12 +36,12 @@ body {
     margin-top: 10px;
 }
 
-.imagen-container {
+.imagen {
     width: 100%;
     margin-top: 20px;
 }
 
-.imagen-container img {
+.imagen img {
     width: 100%;
     border-radius: 8px;
 }
