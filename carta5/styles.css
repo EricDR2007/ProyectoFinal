@@ -32,14 +32,14 @@ body {
 }
 
 .container > div > div > div {
-    color: #888;
     font-size: 25px;
+    color: #888;
     font-weight: 500;
     margin-bottom: 5px;
 }
 
 .container p {
+    font-size: 17px;
     color: #777;
-    font-size: 1.1rem;
     margin-top: 0;
 }
