@@ -9,14 +9,13 @@ body {
     display: flex;
     max-width: 900px;
     background: #fff;
-    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
 }
-.image-section {
-    flex: 1;
-    background: url('image.png') no-repeat center center/cover;
-    min-height: 400px;
+img{
+    width: 200px;
+    height: 200px;
+    margin-top: auto;
 }
-.content-section {
+.contenido {
     flex: 1;
     padding: 40px;
 }
@@ -29,18 +28,16 @@ p {
     color: #555;
     margin-bottom: 20px;
 }
-.btn {
-    display: inline-block;
+.boton {
     background: black;
     color: white;
     padding: 10px 20px;
-    text-decoration: none;
-    border-radius: 5px;
+    border-radius: 16px;
 }
-.numbered-text {
+.texto {
     margin-top: 20px;
 }
-.numbered-text span {
+.texto span {
     display: block;
     font-weight: bold;
     color: #999;
