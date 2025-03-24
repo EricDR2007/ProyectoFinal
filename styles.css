@@ -1,4 +1,7 @@
-header {
-    background-color: black;
-    color: white;
+header{
+background-color: #212121;
+color: #fff;
+padding: 1rem;
+text-align: center;
+width: 100%;
 }
