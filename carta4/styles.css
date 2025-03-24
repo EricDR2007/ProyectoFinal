@@ -2,8 +2,9 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 100vh;
     background: #f4f4f4;
+    width: auto;
+    height: auto;
 }
 .container {
     display: flex;
@@ -11,8 +12,8 @@ body {
     background: #fff;
 }
 img{
-    width: 716px;
-    height: 912px;
+    width: 400px;
+    height: 400px;
     margin-top: 67px;
 }
 .contenido {
