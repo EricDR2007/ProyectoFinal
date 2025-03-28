@@ -10,7 +10,7 @@ body {
 .container {
     padding: 50px 40px;
     width: 1040px;
-    box-shadow: 3px 7px 81px -10px rgba(0,0,0,0.75);
+    box-shadow: 3px 7px 81px -10px rgba(20, 20, 20, 0.75);
 }
 
 h2 {
