@@ -1,23 +1,23 @@
 body {
+    font-family: sans-serif;
     display: flex;
     box-sizing: border-box;
     align-items: center;
     flex-direction: column;
-    font-family: sans-serif;
     padding: 20px;
 }
 
-.container {
+.container { 
+    box-shadow: 3px 7px 81px -10px rgba(20, 20, 20, 0.75);
     padding: 50px 40px;
     width: 1040px;
-    box-shadow: 3px 7px 81px -10px rgba(20, 20, 20, 0.75);
 }
 
 h2 {
     width: 60%;
     font-size: 50px;
-    margin-bottom: 50px;
     margin-top: 10px;
+    margin-bottom: 50px;
 }
 
 .imagenes {
@@ -36,15 +36,15 @@ h2 {
 }
 
 img {
+    border-radius: 15px;
     width: 250px;
     height: 300px;
-    border-radius: 15px;
 }
 
 .imagen::after {
     content: " ";
     position: absolute;
-    background: linear-gradient(to top, #0005 10%, transparent 50%);
+    background: linear-gradient(to top, rgba(24, 23, 23, 0.333) 15%, transparent 40%);
     width: 250px;
     height: 300px;
     z-index: 10;
@@ -52,19 +52,18 @@ img {
     border-radius: 15px;
 }
 
-.contenido {
+.contenido { 
+    font-size: 14px;
     position: absolute;
     top: 305px;
     left: 20px;
     width: 190px;
-    font-size: 14px;
     line-height: 20px;
 }
 
 .texto h3, .texto p {
     margin: 5px 0;
     color: #333;
-    font-family: Sen;
 } 
 
 .texto p {
@@ -81,7 +80,7 @@ img {
 }
 
 .numero {
-    color: #aaa;
-    font-weight: 700;
+    color: #aaa;    
     font-size: 25px;
+    font-weight: 700;
 }

@@ -11,9 +11,9 @@ body {
 .container {
     width: 990px;
     height: 650px;
-    box-shadow: 3px 7px 81px -10px rgba(0,0,0,0.75);
+    box-shadow: 3px 7px 81px -10px rgba(15, 15, 15, 0.75);
     padding: 50px;
-    background-image: url(imagen16.png), linear-gradient(to top, #043E49, 50%, #09212C);
+    background-image: url(imagen16.png), linear-gradient(to top, #09404b, 50%, #061820);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: right; 
@@ -30,7 +30,7 @@ body {
     padding: 30px 70px 30px 40px;
     width: 450px;
     border-radius: 20px;
-    background-image: linear-gradient(to bottom right, #040f14, transparent);
+    background-image: linear-gradient(to bottom right, #000102, transparent);
 }
 
 .contenido2 {
@@ -95,7 +95,7 @@ body {
     border: 1px solid #eee;
     border-radius: 20px;
     padding: 15px 40px;    
-    background-image: linear-gradient(to bottom right,#091f1c, 10%, transparent);
+    background-image: linear-gradient(to bottom right,#030808, 10%, transparent);
     justify-content: space-between;
 
 }
