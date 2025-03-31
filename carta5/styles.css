@@ -12,33 +12,33 @@ body {
     box-shadow: 4px 6px 78px -12px rgba(12, 12, 12, 0.65);
 }
 
-.container h1 {
+.container h1 {    
+    color: rgb(37, 37, 37);
     font-size: 62px;
     width: 60%;
 }
 
 .container > div {
     display: flex;
-    gap: 45px;
+    gap: 40px;
 }
 
 .container > div > div {
     width: 300px;
 }
 
-.container > div > div > div {
+.container div, div, div {
     font-size: 25px;
-    color: #888;
+    color: #818181;
     font-weight: 500;
-    margin-bottom: 5px;
+}
+
+.container p {
+    font-size: 17px;
+    color: #777;
 }
 
 .container img {
     width: 300px;
 }
 
-.container p {
-    font-size: 17px;
-    color: #777;
-    margin-top: 0;
-}
