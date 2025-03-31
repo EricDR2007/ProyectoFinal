@@ -8,11 +8,11 @@ body {
 }
 
 .container {
-    width: 970px;
+    width: 900px;
     height: 660px;
     box-shadow: 4px 6px 78px -12px rgba(12, 12, 12, 0.65);
     padding: 50px;
-    background-image: url(imagen16.png), linear-gradient(to top, #09404b, 40%, #061820);
+    background-image: url(imagen16.png);
     background-repeat: no-repeat;
     background-position: right; 
     color: white;
