@@ -44,6 +44,16 @@ img {
     line-height: 20px;
 }
 
+.numeros, p {
+    color: #666666;
+}
+
+.numeros {
+    color: #666666;    
+    font-size: 28px;
+    font-weight: 680;
+}
+
 .texto p {
     font-size: 14px;
 }
@@ -51,14 +61,4 @@ img {
 .texto h3 {
     font-weight: 100;
     font-size: 18px;
-}
-
-.numero, p {
-    color: #666666;
-}
-
-.numero {
-    color: #666666;    
-    font-size: 28px;
-    font-weight: 680;
 }
