@@ -81,31 +81,23 @@ body {
 
 .contenido3 {
     display: flex;
-    backdrop-filter: blur(3px);
-    border: 1px solid #eee;
-    border-radius: 20px;
-    padding: 15px 40px;    
+    border: 1px solid white;
+    border-radius: 16px;
+    padding: 18px 43px;    
     background-image: linear-gradient(to bottom right,#030808, 10%, transparent);
     justify-content: space-between;
 
 }
 
 .imagenes {
-    width: 190px;
+    width: 180px;
 }
 
 .imagenesimg {
-    width: 20px;
-}
-
-.imagenes h3 {    
-    font-weight: 500;
-    margin-top: 0;
-    margin-bottom: 0;
-
+    width: 22px;
 }
 
 .imagenes p {   
-    margin-top: 5px;
-    font-size: 14px;
+    margin-top: 10px;
+    font-size: 17px;
 }
