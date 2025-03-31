@@ -5,15 +5,15 @@ body {
     flex-direction: column;
 }
 
-.container {
+.container {    
+    margin-top: 70px;
     padding: 50px;
     padding-bottom: 40px; 
-    margin-top: 70px;
     box-shadow: 4px 6px 78px -12px rgba(12, 12, 12, 0.65);
 }
 
-.container h2 {
-    font-size: 4rem;
+.container h1 {
+    font-size: 62px;
     width: 50%;
     margin-top: 0;
 }
