@@ -10,6 +10,7 @@ body {
     display: flex;
     max-width: 900px;
     background: #fff;
+    box-shadow: 4px 6px 78px -12px rgba(12, 12, 12, 0.65);
 }
 img{
     width: 400px;
