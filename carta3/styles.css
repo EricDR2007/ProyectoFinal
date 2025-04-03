@@ -23,9 +23,15 @@ body {
     gap: 82px;
 }
 
+.texto{
+   display: flex; 
+   margin-left: auto;
+
+}
+
 .header h1 {
     display: flex;
-    margin-bottom: 50px;
+    margin-bottom: 5px;
     gap: 82px;
     font-size: 52px;
     margin-top: 5px;
@@ -44,6 +50,7 @@ body {
     color: white;
     padding: 10px 20px;
     border-radius: 10px;
+    cursor: pointer;
 }
 
 .imagen {
