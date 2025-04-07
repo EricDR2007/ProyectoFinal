@@ -40,9 +40,9 @@ p {
 
 .boton {
     border: none;
-    background-color: black;
+    background-color: rgb(37, 36, 36);
     color: white;
-    border-radius: 16px;
+    border-radius: 13px;
     cursor: pointer;
     width: 120px;
     height: 40px;
