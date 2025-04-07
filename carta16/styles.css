@@ -1,8 +1,8 @@
 body { 
     font-family: 'Avenir';
-    display: flex;   
-    padding: 20px;
-    flex-direction: column;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
     align-items: center;
 }
 

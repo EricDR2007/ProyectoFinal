@@ -1,11 +1,11 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    display: flex;
-    justify-content: center;
     align-items: center;
     background: #f4f4f4;
-    width: auto;
-    height: auto;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
 }
 .container {
     display: flex;
