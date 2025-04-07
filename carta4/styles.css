@@ -7,38 +7,46 @@ body {
     justify-content: center;
     align-items: center;
 }
+
 .container {
     display: flex;
     max-width: 1000px;
     background: #fff;
     box-shadow: 4px 6px 78px -12px rgba(12, 12, 12, 0.65);
 }
+
 img{
-    width: 400px;
-    height: 400px;
+    width: 500px;
+    height: 700px;
     margin-top: 67px;
 }
+
 .contenido {
     padding: 40px;
 }
+
 h1 {
     font-size: 28px;
     margin-bottom: 15px;
 }
+
 p {
     font-size: 14px;
     color: #555;
     margin-bottom: 20px;
 }
+
 .boton {
     background: black;
     color: white;
     padding: 10px 20px;
     border-radius: 16px;
 }
+
 .texto {
     margin-top: 20px;
 }
+
 .texto span {
     font-weight: bold;
     color: #999;
