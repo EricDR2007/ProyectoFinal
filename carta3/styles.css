@@ -18,19 +18,15 @@ body {
     justify-content: space-between;
     align-items: center;
     margin-bottom: 20px;
-    display: flex;
     margin-bottom: 50px;
-    gap: 82px;
 }
 
 .texto{
-   display: flex; 
-   margin-left: auto;
-
+   margin-left: 200px;
+   max-width: 45%; 
 }
 
 .header h1 {
-    display: flex;
     margin-bottom: 5px;
     gap: 82px;
     font-size: 52px;
@@ -40,17 +36,18 @@ body {
 .header p {
     max-width: 500px;
     color: #5f5e5e;
-    display: flex;
-
 }
 
 .boton {
     border: none;
     background-color: black;
     color: white;
-    padding: 10px 20px;
-    border-radius: 10px;
+    border-radius: 16px;
     cursor: pointer;
+    width: 100px;
+    height: 40px;
+    gap: 10px;
+
 }
 
 .imagen {
