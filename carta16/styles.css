@@ -2,7 +2,6 @@ body {
     font-family: 'Avenir';
     display: flex;   
     padding: 20px;
-    box-sizing: border-box; 
     flex-direction: column;
     align-items: center;
 }
