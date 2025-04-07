@@ -22,8 +22,9 @@ body {
 }
 
 .texto{
-   margin-left: 200px;
+   margin-left: 500px;
    max-width: 45%; 
+   margin-top: -60px;
 }
 
 .header h1 {
