@@ -10,7 +10,7 @@ body {
 
 .container {
     display: flex;
-    max-width: 1200px;
+    max-width: 1150px;
     background: #fff;
     box-shadow: 4px 6px 78px -12px rgba(12, 12, 12, 0.65);
 }
@@ -19,6 +19,7 @@ img{
     width: 500px;
     height: 700px;
     margin-top: 67px;
+    margin-right: 35px;
 }
 
 .contenido {
@@ -46,14 +47,15 @@ p {
     width: 120px;
     height: 40px;
     gap: 10px;
+    margin-bottom: 25px;
 }
 
 .texto {
     margin-top: 20px;
 }
 
-.texto span {
+.numeros {
     font-weight: bold;
     color: #999;
-    font-size: 18px;
+    font-size: 24px;
 }
