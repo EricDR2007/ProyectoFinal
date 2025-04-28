@@ -21,6 +21,7 @@ body {
   .texto {
     flex: 1;
     position: relative;
+    gap: 32px;
   }
   
   .texto h1 {
@@ -75,10 +76,8 @@ body {
   .imagen {
     width: 617px;
     height: 600px;
-
   }
   
   .imagen img {
     width: 100%;
-    border-radius: 0 0 20px 20px;
   }
