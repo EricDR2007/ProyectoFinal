@@ -9,12 +9,13 @@ body {
   .container {
     display: flex;
     background: #FBD786;
-    width: 90%;
-    max-width: 1200px;
+    width: 100%;
+    max-width: 900px;
+    height: 600px;
     padding: 40px;
-    border-radius: 20px;
     align-items: center;
     gap: 50px;
+    box-shadow: 4px 6px 78px -12px rgba(12, 12, 12, 0.65);
   }
   
   .texto {
@@ -33,7 +34,7 @@ body {
     font-size: 16px;
     color: #333;
     margin-bottom: 30px;
-    max-width: 400px;
+    max-width: 800px;
   }
   
   .boton {
@@ -55,6 +56,7 @@ body {
     align-items: center;
     font-size: 12px;
     text-align: center;
+    border-radius: 50%;
   }
   
   .circulo2 {
@@ -67,11 +69,13 @@ body {
     justify-content: center;
     margin-top: 5px;
     font-size: 20px;
+    border: 1px solid #000;
   }
   
   .imagen {
-    flex: 1;
-    position: relative;
+    width: 617px;
+    height: 600px;
+
   }
   
   .imagen img {
