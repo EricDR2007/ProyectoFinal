@@ -19,12 +19,9 @@ body {
   }
   
   .texto {
-    max-width: 500px;
-    width: 500px;
-    flex: 1;
-    left: 60px;
+    left: 55px;
+    gap: 32px; 
     position: relative;
-    gap: 2px;
   }
   
   .texto h1 {
@@ -75,10 +72,9 @@ body {
     border: 1px solid #000;
   }
   
-
   .imagen {
-    width: 760px;
-    height: 745px;
+    width: 2000px;
+    height: 800px;
   }
   
   .imagen img {
