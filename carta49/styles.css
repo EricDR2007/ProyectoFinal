@@ -17,7 +17,12 @@ body {
     gap: 50px;
     border: solid black 2px;
   }
-
+  
+  .texto {
+    left: 55px;
+    gap: 32px; 
+    position: relative;
+  }
   
   .texto h1 {
     font-size: 55px;
