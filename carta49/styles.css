@@ -10,8 +10,8 @@ body {
     display: flex;
     background: #FBD786;
     width: 100%;
-    max-width: 1100px;
-    height: 800px;
+    max-width: 1150px;
+    height: 750px;
     padding: 40px;
     align-items: center;
     gap: 50px;
@@ -19,6 +19,8 @@ body {
   }
   
   .texto {
+    max-width: 500px;
+    width: 500px;
     flex: 1;
     left: 60px;
     position: relative;
@@ -75,8 +77,8 @@ body {
   
 
   .imagen {
-    width: 780px;
-    height: 738px;
+    width: 760px;
+    height: 745px;
   }
   
   .imagen img {
