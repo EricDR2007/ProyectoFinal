@@ -33,11 +33,7 @@ body {
     color: #777;
 }
 
-.container div, div, div {
-    font-size: 25px;
-    color: #818181;
-    font-weight: 500;
-}
+
 .container img {
     width: 300px;
 }
