@@ -13,27 +13,27 @@ body {
     border: solid black 2px;
   }
   
-  .texto {
-    gap: 32px; 
-    margin-top: 350px;
-    margin-right: 100px;
-  }
   
-  .texto h1 {
-    font-size: 55px;
+  .circulo1 h1 {
+    font-family: 'bitter';
+    font-size: 72px;
     color: #000;
     margin-bottom: 20px;
-    font-weight: 700;
+    font-weight: 800;
+    width: 500px;
+    height: 130px;
+    line-height: 92px;
   }
   
-  .texto p {
-   font-family: 'Space Mono';
-  font-weight: 400;
-  font-size: 24px;
-  line-height: 34px;
-  letter-spacing: 0%;
-
-
+  .circulo1 p {
+    font-family: 'Space Mono';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 34px;
+    letter-spacing: 0%;
+    width: 500px;
+    height: 130px;
+    padding-top: 60px;
   }
   
   .boton {
@@ -42,23 +42,22 @@ body {
     padding: 15px 30px;
     border: none;
     border-radius: 30px;
-    font-size: 16px;
+    font-size: 20px;
     cursor: pointer;
+    width: 200px;
+    height: 65px;
+    font-family: 'Space Mono';
   }
   
   .circulo1 {
   width: 130px;
   height: 130px;
-  margin-top: 169px;
   margin-left: 106px;
-
+  margin-top: 169px;
   }
    
   .imagen {
-    width: 2000px;
-    height: 800px;
-  }
-  
-  .imagen img {
-    width: 100%;
+    width: 941px;
+    height: 919px;
+    margin-left: 100px;
   }
