@@ -11,7 +11,9 @@ body {
     width: 1440px;
     display: flex;
     border: solid black 2px;
-    background-image: url(fondo.jpg);
+    background-image: url(Fondo.png);
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: center;
+
 }
