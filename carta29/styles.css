@@ -1,0 +1,17 @@
+body {
+    font-family: 'lato';
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+
+.container{
+    height: 994px;
+    width: 1440px;
+    display: flex;
+    border: solid black 2px;
+    background-image: url(fondo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
