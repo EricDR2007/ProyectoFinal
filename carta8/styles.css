@@ -15,7 +15,6 @@ body{
 }
 
 .imagen{
-  display: flex;
   width: 656px;
   height: 861px;
   margin-top: 64px;
@@ -23,5 +22,27 @@ body{
 }
 
 .texto{
-  display: flex;
+  color: white;
+  margin-left: 150px;
+  margin-top: 80px;
+}
+
+.texto h1{
+  font-size: 88px;
+}
+
+.texto p{
+  font-size: 24px;
+  width: 500px;
+  font-weight: 300;
+}
+
+button{
+  background-color: #E5B94B;
+  width: 231px;
+  height: 82px;
+  border-radius: 36px;
+  font-size: 32px;
+  border: none;
+  margin-top: 20px;
 }
