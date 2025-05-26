@@ -12,15 +12,22 @@ body {
   display: flex;
   border: solid black 2px;
   background-image: url(Fondo.png);
-  background-size: cover;
+
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: top;
+
   }
 
 .texto{
-  
+
 }
 
 .imagen{
-
+ margin-top: 600px;
+ margin-left: 64px;
+ display: flex;
+ width: 1312px;
+ height: 168px;
+ align-items: center;
+ justify-content: center;
 }
