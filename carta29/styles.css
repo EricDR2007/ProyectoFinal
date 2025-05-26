@@ -19,11 +19,40 @@ body {
   }
 
 .texto{
+  font-family: 'Lato';
+  color: white;
+}
 
+.texto h1{
+  margin-top: 100px;
+  font-size: 72px;
+  margin-left: 64px;
+  width: 670px;
+  height: 150px;
+}
+
+.texto p{
+  margin-top: 80px;
+  font-size: 24px;
+  margin-left: 64px;
+   width: 581px;
+  height: 150px;
+}
+
+button{
+ font-family: 'Lato';
+ margin-top: 30px;
+ width: 222px;
+ height: 66px;
+ border-radius: 40px;
+ gap: 10px;
+ font-size: 22px;
+ border-color: white;
+ margin-left: 64px;
 }
 
 .imagen{
- margin-top: 600px;
+ margin-top: 160px;
  margin-left: 64px;
  display: flex;
  width: 1312px;
