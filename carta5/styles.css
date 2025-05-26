@@ -28,15 +28,15 @@ body {
     width: 300px;
 }
 
-.container p {
-    font-size: 17px;
-    color: #777;
-}
-
 .container div, div, div {
     font-size: 25px;
     color: #818181;
     font-weight: 500;
+}
+
+.container p {
+    font-size: 17px;
+    color: #777;
 }
 .container img {
     width: 300px;
