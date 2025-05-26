@@ -1,3 +1,15 @@
 body{
+  font-family: 'Work Sans';
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.imagen{
+
+}
+
+.texto{
     
 }
