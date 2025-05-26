@@ -11,11 +11,15 @@ body{
   width: 1440px;
   height: 926px;
   border: solid black 2px;
+  display: flex;
 }
 
 .imagen{
   display: flex;
-  
+  width: 656px;
+  height: 861px;
+  margin-top: 64px;
+  margin-left: 64px;
 }
 
 .texto{
