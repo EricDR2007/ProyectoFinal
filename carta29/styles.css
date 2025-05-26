@@ -1,19 +1,26 @@
 body {
-    font-family: 'lato';
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
+  font-family: 'lato';
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
   }
 
 .container{
-    height: 994px;
-    width: 1440px;
-    display: flex;
-    border: solid black 2px;
-    background-image: url(Fondo.png);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
+  height: 994px;
+  width: 1440px;
+  display: flex;
+  border: solid black 2px;
+  background-image: url(Fondo.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  }
+
+.texto{
+  
+}
+
+.imagen{
 
 }
