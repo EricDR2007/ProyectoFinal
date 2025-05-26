@@ -8,8 +8,8 @@ body {
 
 .container {        
     padding-bottom: 30px; 
-    margin-top: 68px;
-    padding: 52px;
+    margin-top: 67px;
+    padding: 50px;
     border: solid black 2px;
 }
 
@@ -29,13 +29,13 @@ body {
 }
 
 .container div, div, div {
-    font-size: 25px;
+    font-size: 24px;
     color: #818181;
     font-weight: 500;
 }
 
 .container p {
-    font-size: 17px;
+    font-size: 16px;
     color: #777;
 }
 
