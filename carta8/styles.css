@@ -6,10 +6,18 @@ body{
   height: 100vh;
 }
 
-.imagen{
+.container{
+  background-color: #9C2004;
+  width: 1440px;
+  height: 926px;
+  border: solid black 2px;
+}
 
+.imagen{
+  display: flex;
+  
 }
 
 .texto{
-    
+  display: flex;
 }
